@@ -1,0 +1,9 @@
+#Esto es mi primer yml de cero
+Channels:
+- name: Enzo Chavez Rossi
+  sub: 1300
+  age: 35
+  youtube: true
+- name: Fernando Chavez Rossi
+  sub: 1500
+  Facebook: true
